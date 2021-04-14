@@ -4,6 +4,8 @@
 
 [task-manager](https://github.com/lehh/task-manager)
 
+[nestjs-soap](https://github.com/lehh/nestjs-soap)
+
 [chat-app](https://github.com/lehh/chat-app)
 
 [node-graphql-api](https://github.com/lehh/node-graphql-api)
