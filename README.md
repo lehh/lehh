@@ -4,7 +4,7 @@
 
 [task-manager](https://github.com/lehh/task-manager)
 
-[nestjs-soap](https://github.com/lehh/nestjs-soap)
+[nestjs-soap](https://github.com/lehh/nestjs-soap) :star:
 
 [chat-app](https://github.com/lehh/chat-app)
 
